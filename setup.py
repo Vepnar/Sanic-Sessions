@@ -17,7 +17,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Vepnar/Sanic-Sessions",
     platforms="any",
-    packages=['sanic_authenticate'],
+    packages=['sanic_sessions'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
